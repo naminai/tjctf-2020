@@ -1,4 +1,4 @@
-# TJCTF-2020 
+# Write-Up TJCTF-2020 - EAS Keamanan Web dan Aplikasi 2020 
 Donny Kurnia Ramadhani (05311840000004)
 <br>
 Nama Team: Sanyo 
